@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manhhaycode&label=Profile%20views&color=0e75b6&style=flat" alt="manhhaycode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhhaycode" alt="manhhaycode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhhaycode&theme=onedark" alt="manhhaycode" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

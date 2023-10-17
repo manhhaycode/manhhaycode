@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manhhaycode&show_icons=true&locale=en" alt="manhhaycode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manhhaycode&" alt="manhhaycode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manhhaycode&theme=dark" alt="manhhaycode" /></p>
